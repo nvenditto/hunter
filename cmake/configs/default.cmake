@@ -15,9 +15,6 @@ include(hunter_user_error)
 
 # NOTE: no names with spaces!
 
-hunter_default_version(basic VERSION 1.0.0)
-
-
 hunter_default_version(ARM_NEON_2_x86_SSE VERSION 1.0.0-p0)
 hunter_default_version(AllTheFlopsThreads VERSION 0.1-p0)
 hunter_default_version(Android-Apk VERSION 1.1.14)
@@ -34,6 +31,7 @@ hunter_default_version(Assimp VERSION 5.0.1-dbd99bf)
 hunter_default_version(Async++ VERSION 0.0.3-hunter)
 hunter_default_version(Avahi VERSION 0.6.31)
 hunter_default_version(BZip2 VERSION 1.0.8-p0)
+hunter_default_version(basic VERSION 1.0.0)
 hunter_default_version(Beast VERSION 1.0.0-b84-hunter-0)
 
 if(MINGW)
