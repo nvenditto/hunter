@@ -16,7 +16,7 @@ hunter_add_version(
     URL
     "https://github.com/nvenditto/basic/archive/v1.0.0.tar.gz"
     SHA1
-    DA39A3EE5E6B4B0D3255BFEF95601890AFD80709
+    8EB0D232DB1369328B8FF0CA518C7B32F5412171
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
